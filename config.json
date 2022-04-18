@@ -1,9 +1,9 @@
 {
-  "DOWNLOAD_URL": "https://saplearninghub.plateau.com/icontent_e/CUSTOM_eu/sap/self-managed/ebook/XXXXX/index.html",
+  "DOWNLOAD_URL": "https://saplearninghub.plateau.com/icontent_e/CUSTOM_eu/sap/self-managed/ebook/TADM70_EN_Col21/index.html#",
   "LOGIN": "SUSER",
-  "PASSWORD": "SUSER_PASSWORD",
-  "TARGET_DIR": "./target_dir",
+  "PASSWORD": "S0021332809",
+  "TARGET_DIR": "./Suser123.",
   "DEBUG": false,
-  "CHROME_EXE": "/usr/bin/google-chrome",
+  "CHROME_EXE": "C:\Program Files\Google\Chrome\Application",
   "CHILD_STREAM": false
 }
